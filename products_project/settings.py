@@ -71,9 +71,6 @@ REST_FRAMEWORK = {
 WSGI_APPLICATION = 'products_project.wsgi.application'
 
 
-# Database
-# https://docs.djangoproject.com/en/4.0/ref/settings/#databases
-
 
 
 # Password validation
